@@ -24,8 +24,12 @@
       "url": "https://www.epfl.ch/en/",
       "startDate": "2024-03-01",
       "endDate": "2024-05-31",
-      "summary": "Worked in the Visual Intelligence and Learning Lab, focusing on co-design of visual sensor systems.",
-      "highlights": ["Supervisor: Prof. Amir Zamir", "ECCV 2024: How Far Can a 1-Pixel Camera Go? Solving Vision Tasks Using Photoreceptors and Computationally Designed Visual Morphology"]
+      "summary": "Visual Intelligence and Learning Lab",
+      "highlights": [
+        "Supervisor: Prof. Amir Zamir",
+        "Worked on co-design of visual sensor systems for indoor navigation",
+        "Published on ECCV2024: How Far Can a 1-Pixel Camera Go? Solving Vision Tasks Using Photoreceptors and Computationally Designed Visual Morphology"
+      ]
     },
     {
       "name": "EPFL",
@@ -34,8 +38,11 @@
       "url": "https://www.epfl.ch/en/",
       "startDate": "2023-07-01",
       "endDate": "2023-09-15",
-      "summary": "Worked in the Visual Intelligence and Learning Lab, focusing on co-design of visual sensor systems.",
-      "highlights": ["Supervisor: Prof. Amir Zamir"]
+      "summary": "Visual Intelligence and Learning Lab",
+      "highlights": [
+        "Supervisor: Prof. Amir Zamir",
+        "Worked on co-design of visual sensor systems for indoor navigation"
+      ]
     },
     {
       "name": "MPI-INF",
@@ -44,8 +51,12 @@
       "url": "https://www.mpi-inf.mpg.de/home",
       "startDate": "2022-04-01",
       "endDate": "2022-09-30",
-      "summary": "Worked in the Vision for Autonomous Systems Group, focusing on building sensor system for autonomous driving.",
-      "highlights": ["Supervisor: Prof. Dengxin Dai"]
+      "summary": "Vision for Autonomous Systems Group",
+      "highlights": [
+        "Supervisor: Prof. Dengxin Dai",
+        "Built a multi-sensor system for autonomous driving, containing cameras, LiDARs, GPS, and event cameras",
+        "Implemented the pipeline including synchronization, calibration, data collection, and post-processing"
+      ]
     },
     {
       "name": "University of Zurich",
@@ -54,8 +65,12 @@
       "url": "https://www.uzh.ch/en.html",
       "startDate": "2021-09-01",
       "endDate": "2022-03-31",
-      "summary": "Worked in the Robotics and Perception Group, focusing on developing sensorimotor policies for drone racing.",
-      "highlights": ["Supervisor: Prof. Davide Scaramuzza", "IROS 2023: Learning deep sensorimotor policies for vision-based autonomous drone racing"]
+      "summary": "Robotics and Perception Group",
+      "highlights": [
+        "Supervisor: Prof. Davide Scaramuzza",
+        "Developed a sensorimotor policy from visual inputs for autonomous drone racing",
+        "Published on IROS 2023: Learning deep sensorimotor policies for vision-based autonomous drone racing"
+      ]
     }
   ],
   "volunteer": [
