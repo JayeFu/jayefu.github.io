@@ -46,6 +46,16 @@
       "endDate": "2022-09-30",
       "summary": "Worked in the Vision for Autonomous Systems Group, focusing on building sensor system for autonomous driving.",
       "highlights": ["Supervisor: Prof. Dengxin Dai"]
+    },
+    {
+      "name": "University of Zurich",
+      "location": "Zurich, Switzerland",
+      "position": "Research Intern",
+      "url": "https://www.uzh.ch/en.html",
+      "startDate": "2021-09-01",
+      "endDate": "2022-03-31",
+      "summary": "Worked in the Robotics and Perception Group, focusing on developing sensorimotor policies for drone racing.",
+      "highlights": ["Supervisor: Prof. Davide Scaramuzza", "IROS 2023: Learning deep sensorimotor policies for vision-based autonomous drone racing"]
     }
   ],
   "volunteer": [
