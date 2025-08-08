@@ -10,3 +10,23 @@
   - firstname: ["Davide", "D."]
     url: https://rpg.ifi.uzh.ch/people_scaramuzza.html
 
+
+"atanov":
+  - firstname: ["Andrei", "A."]
+    url: https://andrewatanov.github.io/
+
+"singh":
+  - firstname: ["Rishubh", "S."]
+    url: https://rishubhsingh.github.io/
+
+"yu":
+  - firstname: ["Isabella", "I."]
+    url: https://yukaryote.github.io/
+
+"spielberg":
+  - firstname: ["Andrew", "A."]
+    url: https://www.andrewspielberg.com/
+
+"zamir":
+  - firstname: ["Amir", "A."]
+    url: https://vilab.epfl.ch/zamir/
