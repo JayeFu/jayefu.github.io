@@ -28,6 +28,16 @@
       "highlights": ["Supervisor: Prof. Amir Zamir", "ECCV 2024: How Far Can a 1-Pixel Camera Go? Solving Vision Tasks Using Photoreceptors and Computationally Designed Visual Morphology"]
     },
     {
+      "name": "EPFL",
+      "location": "Lausanne, Switzerland",
+      "position": "Summer Intern",
+      "url": "https://www.epfl.ch/en/",
+      "startDate": "2023-07-01",
+      "endDate": "2023-09-15",
+      "summary": "Worked in the Visual Intelligence and Learning Lab, focusing on co-design of visual sensor systems.",
+      "highlights": ["Supervisor: Prof. Amir Zamir"]
+    },
+    {
       "name": "MPI-INF",
       "location": "Saarbrücken, Germany",
       "position": "Research Intern",
