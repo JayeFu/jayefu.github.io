@@ -30,3 +30,19 @@
 "zamir":
   - firstname: ["Amir", "A."]
     url: https://vilab.epfl.ch/zamir/
+
+"wan":
+  - firstname: ["Weikang", "W."]
+    url: https://wkwan7.github.io/
+
+"yuan":
+  - firstname: ["Xiaodi", "X."]
+    url: https://rabbit-hu.github.io/
+
+"zhu":
+  - firstname: ["Yifeng", "Y."]
+    url: https://zhuyifengzju.github.io/
+
+"su":
+  - firstname: ["Hao", "H."]
+    url: https://cseweb.ucsd.edu/~haosu/
