@@ -43,11 +43,11 @@
       "institution": "Tsinghua University",
       "location": "Beijing, China",
       "url": "https://www.tsinghua.edu.cn/en/",
-      "area": "Mechanical Engineering",
+      "area": "Mechanical Engineering (Elite Program)",
       "studyType": "B.Eng.",
       "startDate": "2016-09-01",
       "endDate": "2020-06-30",
-      "score": "3.82/4.0",
+      "score": "3.82/4.0 (ranked 1st in the elite program)",
       "courses": []
     },
     {
@@ -84,8 +84,8 @@
       "summary": "Visual Intelligence and Learning Lab",
       "highlights": [
         "Supervisor: Prof. Amir Zamir",
-        "Worked on co-design of visual sensor systems for indoor navigation",
-        "Published on ECCV2024: How Far Can a 1-Pixel Camera Go? Solving Vision Tasks Using Photoreceptors and Computationally Designed Visual Morphology"
+        "Implemented co-design algorithms of photoreceptors and control policy for indoor navigation in Habitat",
+        "Deployed the control policy with an optimized mechanical design on a TurtleBot4 robot"
       ]
     },
     {
@@ -97,8 +97,8 @@
       "endDate": "2023-09-15",
       "summary": "Visual Intelligence and Learning Lab",
       "highlights": [
-        "Supervisor: Prof. Amir Zamir",
-        "Worked on co-design of visual sensor systems for indoor navigation"
+        "Implemented co-design algorithms of photoreceptors and control policy for indoor navigation in Habitat",
+        "Deployed the control policy with an optimized mechanical design on a TurtleBot4 robot"
       ]
     },
     {
@@ -125,8 +125,8 @@
       "summary": "Robotics and Perception Group",
       "highlights": [
         "Supervisor: Prof. Davide Scaramuzza",
-        "Developed a sensorimotor policy from visual inputs for autonomous drone racing",
-        "Published on IROS 2023: Learning deep sensorimotor policies for vision-based autonomous drone racing"
+        "Developed a sensorimotor policy with policy distillation for autonomous drone racing",
+        "Achieved robust racing performance against various visual disturbances with contrastive representation learning"
       ]
     }
   ],
@@ -171,14 +171,14 @@
       "summary": "Awarded for exchange semester and master's thesis at EPFL."
     },
     {
-      "title": "Outstanding Graduate in Beijing",
+      "title": "Outstanding Graduate of Beijing",
       "date": "2020-06-01",
       "awarder": "Tsinghua University",
       "url": "https://www.tsinghua.edu.cn/en/",
       "summary": "Awarded for outstanding performance in the undergraduate program."
     },
     {
-      "title": "Excellent Graduate in Tsinghua University",
+      "title": "Excellent Graduate of Tsinghua University",
       "date": "2020-06-01",
       "awarder": "Tsinghua University",
       "url": "https://www.tsinghua.edu.cn/en/",
@@ -192,6 +192,13 @@
       "summary": "Awarded for outstanding performance in the 3rd year of undergraduate study."
     },
     {
+      "title": "Comprehensive Excellence Award",
+      "date": "2019-12-01",
+      "awarder": "Tsinghua University",
+      "url": "https://www.tsinghua.edu.cn/en/",
+      "summary": "Awarded for outstanding performance in the 3rd year of undergraduate study."
+    },
+    {
       "title": "Energy and Science Scholarship",
       "date": "2018-12-01",
       "awarder": "Tsinghua University",
@@ -199,7 +206,21 @@
       "summary": "Awarded for outstanding performance in the 2nd year of undergraduate study."
     },
     {
+      "title": "Comprehensive Excellence Award",
+      "date": "2018-12-01",
+      "awarder": "Tsinghua University",
+      "url": "https://www.tsinghua.edu.cn/en/",
+      "summary": "Awarded for outstanding performance in the 2nd year of undergraduate study."
+    },
+    {
       "title": "National Scholarship",
+      "date": "2017-12-01",
+      "awarder": "Tsinghua University",
+      "url": "https://www.tsinghua.edu.cn/en/",
+      "summary": "Awarded for outstanding performance in the 1st year of undergraduate study."
+    },
+    {
+      "title": "Comprehensive Excellence Award",
       "date": "2017-12-01",
       "awarder": "Tsinghua University",
       "url": "https://www.tsinghua.edu.cn/en/",
@@ -260,7 +281,9 @@
         "C++",
         "PyTorch",
         "Docker",
-        "Git"
+        "Git",
+        "ROS",
+        "ROS2"
       ]
     },
     {
