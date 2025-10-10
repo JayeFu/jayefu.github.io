@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am actively searching for **Research Internships** for **Jun. 2026 - Sept. 2026**.
+I am actively searching for **Research Internships** for **Summer 2026**.
 
 I am currently a Ph.D. student in Computer Science and Engineering at [UCSD](https://ucsd.edu/). Previously, I obtained my M.Sc. degree in Robotics, Systems, and Control from [ETH Zurich](https://ethz.ch/en.html) and my B.Eng. degree in Mechanical Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
