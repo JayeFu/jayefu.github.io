@@ -73,63 +73,6 @@
       "courses": []
     }
   ],
-  "work": [
-    {
-      "name": "EPFL",
-      "location": "Lausanne, Switzerland",
-      "position": "Research Assistant",
-      "url": "https://www.epfl.ch/en/",
-      "startDate": "2024-03-01",
-      "endDate": "2024-05-31",
-      "summary": "Visual Intelligence and Learning Lab",
-      "highlights": [
-        "Supervisor: Prof. Amir Zamir",
-        "Implemented co-design algorithms of photoreceptors and control policy for indoor navigation in Habitat",
-        "Deployed the control policy with an optimized mechanical design on a TurtleBot4 robot"
-      ]
-    },
-    {
-      "name": "EPFL",
-      "location": "Lausanne, Switzerland",
-      "position": "Summer Intern",
-      "url": "https://www.epfl.ch/en/",
-      "startDate": "2023-07-01",
-      "endDate": "2023-09-15",
-      "summary": "Visual Intelligence and Learning Lab",
-      "highlights": [
-        "Implemented co-design algorithms of photoreceptors and control policy for indoor navigation in Habitat",
-        "Deployed the control policy with an optimized mechanical design on a TurtleBot4 robot"
-      ]
-    },
-    {
-      "name": "MPI-INF",
-      "location": "Saarbrücken, Germany",
-      "position": "Research Intern",
-      "url": "https://www.mpi-inf.mpg.de/home",
-      "startDate": "2022-04-01",
-      "endDate": "2022-09-30",
-      "summary": "Vision for Autonomous Systems Group",
-      "highlights": [
-        "Supervisor: Prof. Dengxin Dai",
-        "Built a multi-sensor system for autonomous driving, containing cameras, LiDARs, GPS, and event cameras",
-        "Implemented a data collection pipeline including synchronization, calibration, and post-processing"
-      ]
-    },
-    {
-      "name": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "position": "Research Intern",
-      "url": "https://www.uzh.ch/en.html",
-      "startDate": "2021-09-01",
-      "endDate": "2022-03-31",
-      "summary": "Robotics and Perception Group",
-      "highlights": [
-        "Supervisor: Prof. Davide Scaramuzza",
-        "Developed a sensorimotor policy with policy distillation for autonomous drone racing",
-        "Achieved robust racing performance against various visual disturbances with contrastive representation learning"
-      ]
-    }
-  ],
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -225,6 +168,64 @@
       "awarder": "Tsinghua University",
       "url": "https://www.tsinghua.edu.cn/en/",
       "summary": "Awarded for outstanding performance in the 1st year of undergraduate study."
+    }
+  ],
+  "work": [
+    {
+      "name": "EPFL",
+      "location": "Lausanne, Switzerland",
+      "position": "Research Assistant",
+      "url": "https://www.epfl.ch/en/",
+      "startDate": "2024-03-01",
+      "endDate": "2024-05-31",
+      "summary": "Visual Intelligence and Learning Lab",
+      "highlights": [
+        "Supervisor: Prof. Amir Zamir",
+        "Implemented co-design algorithms of photoreceptors and control policy for indoor navigation in Habitat",
+        "Deployed the control policy with an optimized mechanical design on a TurtleBot4 robot"
+      ]
+    },
+    {
+      "name": "EPFL",
+      "location": "Lausanne, Switzerland",
+      "position": "Summer Intern",
+      "url": "https://www.epfl.ch/en/",
+      "startDate": "2023-07-01",
+      "endDate": "2023-09-15",
+      "summary": "Visual Intelligence and Learning Lab",
+      "highlights": [
+        "Supervisor: Prof. Amir Zamir",
+        "Implemented co-design algorithms of photoreceptors and control policy for indoor navigation in Habitat",
+        "Deployed the control policy with an optimized mechanical design on a TurtleBot4 robot"
+      ]
+    },
+    {
+      "name": "MPI-INF",
+      "location": "Saarbrücken, Germany",
+      "position": "Research Intern",
+      "url": "https://www.mpi-inf.mpg.de/home",
+      "startDate": "2022-04-01",
+      "endDate": "2022-09-30",
+      "summary": "Vision for Autonomous Systems Group",
+      "highlights": [
+        "Supervisor: Prof. Dengxin Dai",
+        "Built a multi-sensor system for autonomous driving, containing cameras, LiDARs, GPS, and event cameras",
+        "Implemented a data collection pipeline including synchronization, calibration, and post-processing"
+      ]
+    },
+    {
+      "name": "University of Zurich",
+      "location": "Zurich, Switzerland",
+      "position": "Research Intern",
+      "url": "https://www.uzh.ch/en.html",
+      "startDate": "2021-09-01",
+      "endDate": "2022-03-31",
+      "summary": "Robotics and Perception Group",
+      "highlights": [
+        "Supervisor: Prof. Davide Scaramuzza",
+        "Developed a sensorimotor policy with policy distillation for autonomous drone racing",
+        "Achieved robust racing performance against various visual disturbances with contrastive representation learning"
+      ]
     }
   ],
   "certificates": [
