@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student @ <a href='https://cseweb.ucsd.edu/~haosu/index.html'>SuLab UCSD</a>
+subtitle: Ph.D. student advised by <a href='https://hichristensen.com/'>Prof. Henrik Christensen</a>
 
 profile:
   align: right
@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am actively searching for **Research Internships** for **Summer 2026**.
+I will be joining **Amazon FAR** for summer internship from **June to September**!
 
-I am currently a Ph.D. student advised by [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) in Computer Science and Engineering at [UCSD](https://ucsd.edu/). Previously, I obtained my M.Sc. degree in Robotics, Systems, and Control from [ETH Zurich](https://ethz.ch/en.html) and my B.Eng. degree in Mechanical Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am currently a Ph.D. student advised by [Prof. Henrik Christensen](https://hichristensen.com/) at [UCSD](https://ucsd.edu/). I also worked with [Prof. Hao Su](https://scholar.google.com/citations?user=1P8Zu04AAAAJ&hl=en) in the past few years. Previously, I obtained my M.Sc. degree in Robotics, Systems, and Control from [ETH Zurich](https://ethz.ch/en.html) and my B.Eng. degree in Mechanical Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 I was was also a research assistant at [EPFL](https://www.epfl.ch/en/) (24 Spring) and did my research intern at [MPI-INF](https://www.mpi-inf.mpg.de/home) (22 Spring).
 
