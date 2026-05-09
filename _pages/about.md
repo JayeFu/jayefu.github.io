@@ -28,7 +28,7 @@ latest_posts:
 
 I will be joining **Amazon FAR** for summer internship from **June to September**!
 
-I am currently a Ph.D. student advised by [Prof. Henrik Christensen](https://hichristensen.com/) at [UCSD](https://ucsd.edu/). I was fortunate to be advised by [Prof. Hao Su](https://scholar.google.com/citations?user=1P8Zu04AAAAJ&hl=en). Previously, I obtained my M.Sc. degree in Robotics, Systems, and Control from [ETH Zurich](https://ethz.ch/en.html) and my B.Eng. degree in Mechanical Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am a Ph.D. student in Computer Science and Engineering at [UC San Diego](https://ucsd.edu/), where I am advised by [Prof. Henrik Christensen](https://hichristensen.com/). I also collaborate closely with [Prof. Haoshu Fang](https://fang-haoshu.github.io/) and was previously advised by [Prof. Hao Su](https://www.haosu.ai/). Prior to UCSD, I earned my M.Sc. in Robotics, Systems, and Control from [ETH Zurich](https://ethz.ch/en.html) and my B.Eng. in Mechanical Engineering (Elite Program) from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 I was was also a research assistant at [EPFL](https://www.epfl.ch/en/) (24 Spring) and did my research intern at [MPI-INF](https://www.mpi-inf.mpg.de/home) (22 Spring).
 
