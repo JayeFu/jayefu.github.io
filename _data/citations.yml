@@ -1,19 +1,19 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-09-07'
 papers:
   5E_2M1UAAAAJ:IjCSPb-OGe4C:
-    citations: 5
-    title: 'LodeStar: long-horizon dexterity via synthetic data augmentation from human demonstrations'
+    citations: 7
+    title: 'Lodestar: Long-horizon dexterity via synthetic data augmentation from human demonstrations'
     year: '2025'
   5E_2M1UAAAAJ:UeHWp8X0CEIC:
-    citations: 1
-    title: How Far Can a 1-Pixel Camera Go? Solving Vision Tasks Using Photoreceptors and Computationally Designed Visual Morphology
+    citations: 2
+    title: How far can a 1-pixel camera go? solving vision tasks using photoreceptors and computationally designed visual morphology
     year: '2024'
   5E_2M1UAAAAJ:qjMakFHDy7sC:
     citations: 3
     title: Solving vision tasks with simple photoreceptors instead of cameras
     year: '2024'
   5E_2M1UAAAAJ:u5HHmVD_uO8C:
-    citations: 34
+    citations: 37
     title: Learning deep sensorimotor policies for vision-based autonomous drone racing
     year: '2023'
