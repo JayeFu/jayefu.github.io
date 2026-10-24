@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+seo_title: Jiawei Fu | Dexterous Manipulation | UC San Diego
 permalink: /
 subtitle: Ph.D. student advised by <a href='https://hichristensen.com/'>Prof. Henrik Christensen</a>
 
@@ -31,4 +32,4 @@ I am a Ph.D. student in Computer Science and Engineering at [UC San Diego](https
 
 Previously, I was an intern at Amazon FAR (26 Summer), a research assistant at [EPFL](https://www.epfl.ch/en/) (24 Spring), and a research intern at [MPI-INF](https://www.mpi-inf.mpg.de/home) (22 Spring).
 
-**Research Interest**: My research interests focus on the intersection of **Robotics** and **Maching Learning**. I'm particularly interested in developing data collection systems for diverse robots and enabling efficient learning for robot manipulation.
+**Research Interests**: My research focuses on dexterous manipulation with robotic hands, with particular interests in tactile data collection and efficient learning of manipulation skills.
